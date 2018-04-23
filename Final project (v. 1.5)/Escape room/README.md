@@ -1,7 +1,11 @@
 **Made game mechanics work without any issues:**
+
 Created keypad that unlocks the door when the keycode has been entered.
+
 When user clicks on the key, it will be added to the inventory.
+
 When user interacts with the chest while key is in inventory, the keycard is added to the inventory.
+
 When keycard is in inventory, the main door is unlocked when the user interacts with it.
 
 **Possibility of replaying when game is finished (go back to main menu)**
