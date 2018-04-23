@@ -8,6 +8,7 @@ When user interacts with the chest while key is in inventory, the keycard is add
 
 When keycard is in inventory, the main door is unlocked when the user interacts with it.
 
+
 **Possibility of replaying when game is finished (go back to main menu)**
 
 **A "How to Play" screen was added to the main menu**
