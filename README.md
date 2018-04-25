@@ -9,7 +9,7 @@ Change background picture on main menu
 
 Change sound Effects for door
 
-Include more hovertext in the different rooms
+Include more hovertext in the different rooms (Anne)
 
 Make a final score screen 
 
