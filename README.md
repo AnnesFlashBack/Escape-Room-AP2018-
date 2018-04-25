@@ -2,6 +2,31 @@
 This is our Escape Room so far (AP2018 final project)
 
 
+
+**Need to have:**
+
+Change background picture on main menu
+
+Change sound Effects for door
+
+Include more hovertext in the different rooms
+
+Make a final score screen 
+
+Write the “How to Play” text
+
+Intro text. “You wake up in a dimly lit hallway. You don’t remember how you got there etc..” 
+
+
+**Nice to have:**
+
+Scoreboard
+
+Highscore
+
+Easter Eggs
+
+
 **Already implemented:**
 
 Make the base mechanics work
@@ -33,26 +58,3 @@ Sound Effects
 Clickcount
 
 When 50 clicks = game over
-
-**Need to have:**
-
-Change background picture on main menu
-
-Change sound Effects for door
-
-Include more hovertext in the different rooms
-
-Make a final score screen 
-
-Write the “How to Play” text
-
-Intro text. “You wake up in a dimly lit hallway. You don’t remember how you got there etc..” 
-
-
-**Nice to have:**
-
-Scoreboard
-
-Highscore
-
-Easter Eggs
