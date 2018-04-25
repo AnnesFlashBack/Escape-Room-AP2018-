@@ -38,11 +38,7 @@ When 50 clicks = game over
 
 Change background picture on main menu
 
-Change sound Effects
-
-Creepify the pictures (Photoshop)
-
-Fix background pictures for storage and radiator room (Photoshop)
+Change sound Effects for door
 
 Include more hovertext in the different rooms
 
